@@ -5,3 +5,4 @@ int main(){
  int a=2,b=5;
  sum=a+b;
 cout<<sum<<endl;
+}
